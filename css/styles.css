@@ -417,7 +417,7 @@ i {
     height: 3vh;
 }
 
-#advertise {
+#advertise1, #advertise2 {
     display: flex;
     align-items: center;
 }
